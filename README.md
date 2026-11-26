@@ -1,6 +1,6 @@
 # TecnoFix-No-SQL
 <details>
-<summary>▶ Haz clic para ver el código de PL/SQL</summary>
+<summary>▶ Haz clic para ver el código de No/SQL</summary>
 
 ```sql
 
